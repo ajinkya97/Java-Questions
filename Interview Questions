@@ -1,0 +1,20 @@
+1)What is constructor?
+2)What is the purpose of default constructor?
+3) Does constructor return any value?
+4)Is constructor inherited?
+5)Can you make a constructor final?
+6)What is static variable?
+7)What is static method?
+8)Why main method is static?
+9)What is this in java?
+10)What is Inheritance?
+11) What is super in java?
+12) What is method overloading?
+13)What is Exception Handling?
+14)Is it necessary that each try block must be followed by a catch block?
+15)Is String a keyword in java?
+16)How many ways we can create the string object?
+17)Which one will you prefer among “==” and equals() method to compare two string objects?
+18)How do you count the number of occurrences of each character in a string?
+19)How do you remove all white spaces from a string in java?
+20)How do you find duplicate characters in a string?
